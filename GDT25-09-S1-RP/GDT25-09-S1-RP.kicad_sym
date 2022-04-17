@@ -9,7 +9,7 @@
     (property "Footprint" "GDT25-09-S1-RP:GDT25-09-S1-RP" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.mouser.ch/datasheet/2/54/bourns_12102020_GDT25_datasheet-1947440.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "GDT25-09-S1-RP_0_1"

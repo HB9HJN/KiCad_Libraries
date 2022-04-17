@@ -6,10 +6,10 @@
     (property "Value" "CX2074NL" (id 1) (at -2.54 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "CX2074NL:CX2074NL" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.mouser.ch/datasheet/2/447/plei_s_a0001296148_1-2903271.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "CX2074NL_0_1"

@@ -6,10 +6,10 @@
     (property "Value" "ADP151" (id 1) (at 1.27 -1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "ADP151:ADP151" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/adp151.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "ADP151_0_1"

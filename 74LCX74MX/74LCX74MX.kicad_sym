@@ -9,7 +9,7 @@
     (property "Footprint" "74LCX74MX:74LCX74MX" (id 2) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.mouser.ch/datasheet/2/308/74LCX74_D-2309941.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "74LCX74MX_0_1"

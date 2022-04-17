@@ -6,10 +6,10 @@
     (property "Value" "OP350UA" (id 1) (at -3.81 -20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "OP350UA:OP350UA" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa4350.pdf?ts=1650209713927&ref_url=https%253A%252F%252Fwww.google.com%252F" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "OP350UA_0_1"
